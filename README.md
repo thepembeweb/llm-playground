@@ -8,7 +8,7 @@
 
 ## 🤖 Interactive LLM Learning Platform
 
-![LLM Playground](https://via.placeholder.com/800x400/1a1a1a/ffffff?text=LLM+Playground)
+![LLM Playground Interface](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=400&fit=crop&crop=center&auto=format&q=80)
 
 ## Features
 
@@ -92,7 +92,7 @@
 
 For a cloud-based experience without local setup:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/llm-playground/blob/main/lm_playground.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thepembeweb/llm-playground/blob/main/lm_playground.ipynb)
 
 ## Project Structure
 
@@ -212,7 +212,10 @@ Contributions are welcome! Please feel free to submit issues, feature requests, 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+[![License](http://img.shields.io/:license-mit-green.svg?style=flat-square)](http://badges.mit-license.org)
+
+- This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+- Copyright 2025 © [Pemberai Sweto](https://github.com/thepembeweb).
 
 ## Acknowledgments
 
@@ -221,11 +224,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **PyTorch** team for the deep learning framework
 - **Jupyter** project for the interactive notebook environment
 
-## Author
+## Authors
 
-**Your Name** - [GitHub Profile](https://github.com/yourusername)
-
-- **[Pemberai Sweto](https://github.com/thepembeweb)** - _Initial work_ - [LLM Playground](https://github.com/thepembeweb/ai-reviews-app)
+- **[Pemberai Sweto](https://github.com/thepembeweb)** - _Initial work_ - [LLM Playground](https://github.com/thepembeweb/llm-playground)
 
 ---
 
