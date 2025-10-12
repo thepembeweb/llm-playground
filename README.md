@@ -66,7 +66,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/llm-playground.git
+   git clone https://github.com/thepembeweb/llm-playground.git
    cd llm-playground
    ```
 
