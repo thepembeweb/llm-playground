@@ -206,10 +206,6 @@ By completing this playground, you will:
 - ✅ Gain hands-on experience with production ML libraries
 - ✅ Develop intuition for LLM behavior and parameter effects
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests to improve the educational content and interactive experiences.
-
 ## License
 
 [![License](http://img.shields.io/:license-mit-green.svg?style=flat-square)](http://badges.mit-license.org)
